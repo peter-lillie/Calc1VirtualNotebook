@@ -9,24 +9,7 @@
 </head>
 
 <body class="stackedit">
-  <div class="stackedit__left">
-    <div class="stackedit__toc">
-      
-<ul>
-<li><a href="#calculus-1">Calculus 1</a>
-<ul>
-<li><a href="#introduction-to-limits">1.1 Introduction to Limits</a></li>
-<li><a href="#appendix-a-glossary">Appendix A: Glossary</a></li>
-<li><a href="#appendix-b-formulas">Appendix B: Formulas</a></li>
-</ul>
-</li>
-</ul>
-
-    </div>
-  </div>
-  <div class="stackedit__right">
-    <div class="stackedit__html">
-      <h1 id="calculus-1">Calculus 1</h1>
+  <div class="stackedit__html"><h1 id="calculus-1">Calculus 1</h1>
 <p>Professor Jenna Reis<br>
 Fitchburg State University<br>
 MATH 2300-02<br>
@@ -113,9 +96,7 @@ In this case: <span class="katex--display"><span class="katex-display"><span cla
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
-
-    </div>
-  </div>
+</div>
 </body>
 
 </html>
