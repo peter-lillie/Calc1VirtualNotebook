@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="calculus-1">Calculus 1</h1>
 <p>Professor Jenna Reis<br>
 Fitchburg State University<br>
