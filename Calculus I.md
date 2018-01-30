@@ -1,4 +1,4 @@
-﻿# Calculus 1
+# Calculus 1
 Professor Jenna Reis
 Fitchburg State University
 MATH 2300-02 
