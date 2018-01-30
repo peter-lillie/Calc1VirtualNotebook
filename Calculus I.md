@@ -1,15 +1,9 @@
-<!DOCTYPE html>
-<html>
+---
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Calculus I</title>
-  <link rel="stylesheet" href="https://stackedit.io/style.css" />
-</head>
 
-<body class="stackedit">
-  <div class="stackedit__html"><h1 id="calculus-1">Calculus 1</h1>
+---
+
+<h1 id="calculus-1">Calculus 1</h1>
 <p>Professor Jenna Reis<br>
 Fitchburg State University<br>
 MATH 2300-02<br>
@@ -96,7 +90,4 @@ In this case: <span class="katex--display"><span class="katex-display"><span cla
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
-</div>
-</body>
 
-</html>
